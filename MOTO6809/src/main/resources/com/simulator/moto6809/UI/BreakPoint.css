@@ -1,0 +1,6 @@
+.styled-text-area .paragraph-box.bp-line {
+    -fx-background-color: rgba(239, 68, 68, 0.18);
+}
+.styled-text-area .paragraph-box.pc-line {
+    -fx-background-color: rgba(59, 130, 246, 0.18);
+}
