@@ -1,0 +1,8 @@
+.root {
+    -fx-text-background-color: -fx-text-inner-color;
+}
+
+/*le highlight des lignes PC */
+.pc-line {
+    -fx-background-color: rgba(255, 235, 59, 0.25);
+}
